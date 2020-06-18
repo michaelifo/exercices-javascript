@@ -1,3 +1,3 @@
 # exercices-javascript
 
-Lire le readme dans le fichier rar Exercices-javascript
+Lire le readme inclus dans le fichier rar Exercices-javascript
